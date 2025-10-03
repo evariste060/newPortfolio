@@ -1,4 +1,4 @@
-import './style.css'
+import './style.css';
 let open = document.getElementById('open')
 let close =document.getElementById('close')
 let menu = document.getElementById('menu')
